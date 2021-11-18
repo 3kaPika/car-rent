@@ -1,0 +1,75 @@
+html {
+    height: 100%;}
+
+
+body {margin: 0;
+padding: 0;
+   
+   background-size: cover;
+    font-family: 'Open sans', sans-serif;
+    height: 100%; //позволит растянуть сайт на 100% высоты
+    border: 5px;
+    background-image: url(1099844_original.jpg);}
+
+.cars{background-image: url(9999.jpg);}
+.feedback{background-image:url(%D1%80%D1%80%D1%80%D1%80.jpg); }
+h2 {text-align: center;
+    font-size:60px;
+color:white;}
+
+
+.menu-main   {text-decoration: overline;
+    display:inline-flex;
+    text-align: center;}
+ 
+.menu-element
+{ margin-left: 340px;}
+
+a{font-size: 20px;
+    text-decoration: none;
+font-weight:bolder;
+color: black;}
+
+.developer{padding-top:40px;}
+
+.about {
+    text-align: center;
+color:white;
+    font-size: 30px;
+    padding-top:100px;}
+
+.about2{text-align: center;
+padding-top:20px;
+color:white;}
+.social{text-align: center;}
+
+.links{padding-top:60px;
+    height: 300px;
+ display:inline-flex;
+color:white;}
+
+div .vkfaceinst {margin-left: 300px;}
+
+.vk{width:150px 150px;}
+
+h4{text-align: center;
+font-size: 40px;
+color:black;}
+
+.carchoice{color:black;}
+
+.example {margin-left: 40px;
+display:inline-flex;
+border-radius: 100px;}
+.price{padding-top:100px;}
+.podpisi p{margin-left: 250px;
+  
+    text-decoration: overline;
+    text-decoration: underline;
+    font-weight:bolder;
+    font-size: 25px;
+display:inline-flex;}
+h5{margin-right:40px;
+font-size:60px;
+color:white;}
+p{font-size: 20px;}
